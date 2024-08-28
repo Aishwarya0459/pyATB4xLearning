@@ -4,10 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7368e5b5-7433-4f3c-8f7f-d2ce48fd59ea" name="Changes" comment="lab1">
-      <change afterPath="$PROJECT_DIR$/src/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024" afterDir="false" />
+    <list default="true" id="7368e5b5-7433-4f3c-8f7f-d2ce48fd59ea" name="Changes" comment="tasks">
+      <change afterPath="$PROJECT_DIR$/src/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/READ ME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep2024/_init_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/ex_05092024" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_init_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09092024/_init_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task10.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task11.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task8.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_28082024/Tasks/Task9.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Tasks/Task9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +86,9 @@
     &quot;accountId&quot;: &quot;d999b3ec-162d-4c1a-a690-2eb83d74d6f8&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,10 +104,36 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Task11.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task4.executor": "Run",
+    "Python.Task5.executor": "Run",
+    "Python.Task6.executor": "Run",
+    "Python.Task7.executor": "Run",
+    "Python.Task8.executor": "Run",
+    "Python.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/aishw/PycharmProjects/pyATB4xLearning/src/Tasks"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aishw\PycharmProjects\pyATB4xLearning\src\Tasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aishw\PycharmProjects\pyATB4xLearning\src\ex_28082024\Tasks" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,11 +166,40 @@
       <option name="project" value="LOCAL" />
       <updated>1723486860384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lab2">
+      <option name="closed" value="true" />
+      <created>1723489443354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723489443354</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tasks">
+      <option name="closed" value="true" />
+      <created>1724841994884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724841994886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab1" />
+    <MESSAGE value="lab2" />
+    <MESSAGE value="tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks" />
   </component>
 </project>
